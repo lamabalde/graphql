@@ -14,7 +14,7 @@ span {
     position: absolute;
     left: 60%;
     bottom: -57%;
-    top: 30%;
+    top: 40%;
     width: 300px; /* Ajouté une largeur pour éviter le débordement */
     height: 300px; /* Ajouté une hauteur pour éviter le débordement */
 }
